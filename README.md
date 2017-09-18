@@ -13,3 +13,13 @@ Nur Hilfslinien:
 ## Farben, Maße, Dateigröße anzeigen (Info Fenster)
 * Menü - Fenster - Info
 * [F8]
+
+## Scrollen und Zoomen mit der Maus
+### Horizontal Scrollen
+[Strg] + Mausrad
+
+### Vertical Scrollen
+[Shift] + Mausrad
+
+### Zoomen
+[Alt] + Mausrad
