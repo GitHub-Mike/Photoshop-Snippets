@@ -7,5 +7,9 @@ Alle Extras:
 * [Strg] + [H]
 
 Nur Hilfslinien:
-* Menü - Ansicht - Anzeigen - Hilflinien
+* Menü - Ansicht - Anzeigen - Hilfslinien
 * [Strg] + [,]
+
+## Farben, Maße, Dateigröße anzeigen (Info Fenster)
+* Menü - Fenster - Info
+* [F8]
